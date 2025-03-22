@@ -19,4 +19,3 @@ vim.o.mouse = 'a'
 
 -- require lazy and load plugins
 require("config.lazy")
-require("lazy").setup("plugins")
